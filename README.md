@@ -6,12 +6,12 @@ optimizing CI/CD pipelines.Adept at managing infrastructure as code (IaC) and co
 ensure high system availability and reliability.
 
 ## TECHNICAL SKILLS
-Programming Languages: Python, Bash, YAML
-Cloud Platforms: AWS , GCP
-Containers and Tools: Docker, Kubernetes, Git, Jira, Networking fundamentals
-CI/CD and DevOps Practices: Gitlab CI/CD, GitHub Actions, Terraform (GCP + AWS modules)
+-Programming Languages: Python, Bash, YAML
+-Cloud Platforms: AWS , GCP
+-Containers and Tools: Docker, Kubernetes, Git, Jira, Networking fundamentals
+-CI/CD and DevOps Practices: Gitlab CI/CD, GitHub Actions, Terraform (GCP + AWS modules)
 
 ## CERTIFICATIONS 
-• Professional Cloud Devops Engineer - Google Cloud Certified (2025)
-• Generative AI Leader — Google Cloud Certified (2025)
-• Associate Cloud Engineer — Google Cloud Certified (2022)
+-• Professional Cloud Devops Engineer - Google Cloud Certified (2025)
+-• Generative AI Leader — Google Cloud Certified (2025)
+-• Associate Cloud Engineer — Google Cloud Certified (2022)
