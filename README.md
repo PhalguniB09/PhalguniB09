@@ -16,14 +16,8 @@ ensure high system availability and reliability.
 - Generative AI Leader — Google Cloud Certified (2025)
 - Associate Cloud Engineer — Google Cloud Certified (2022)
 
-<p align="center">
-  <a href="https://github.com/PhalguniB09">
-    <img src="https://img.shields.io/github/followers/PhalguniB09?label=Follow&style=social" />
-  </a>
-  <a href="www.linkedin.com/in/phalgunibavkar">
-    <img src="https://img.shields.io/badge/LinkedIn-Phalguni%20bavkar-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](
+https://linkedin.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
