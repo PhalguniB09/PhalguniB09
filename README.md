@@ -1,5 +1,5 @@
-###Phalguni Bavkar
-##Python Cloud Devops Engineer
+### Phalguni Bavkar
+## Python Cloud Devops Engineer
 
 #DevOps Engineer with 2+ years of experience automating, securing, and scaling cloud infrastructure. Proven track record of
 #optimizing CI/CD pipelines.Adept at managing infrastructure as code (IaC) and collaborating with development teams to
