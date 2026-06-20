@@ -18,10 +18,10 @@ ensure high system availability and reliability.
 
 <p align="center">
   <a href="https://github.com/PhalguniB09">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/PhalguniB09?label=Follow&style=social" />
   </a>
   <a href="www.linkedin.com/in/phalgunibavkar">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Phalguni%20bavkar-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
